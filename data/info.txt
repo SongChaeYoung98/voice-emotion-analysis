@@ -1,0 +1,3 @@
+The file recognition.txt contains the filename, recognition rate and naturalness evaluation in per
+cent. 20 persons took part in the evaluation test. Samples with a recognition rate of at least 80%
+and naturalness evaluation of at least 60% are included in the analyses.
