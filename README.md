@@ -4,6 +4,11 @@
 ## Language, Development tools
 Python 3, Pycharm(Anaconda, Virtual Machine)
 
+## Dependencies
+- OpenCV
+- PyAudio
+- 
+
 ## Introduction
 2020년 대한민국(남한)의 최저, 최고 기온 및 강수량을 기준으로 밀 경작 가능지를 판단 및 학습
 기상청에서 공고한 미래의 기온 변화를 참고하여 2020년 기온에 ± α°C 를 하여 각각 2030, 2040년 기후 데이터 제작
