@@ -19,6 +19,7 @@ Python 3, Pycharm(Anaconda, Virtual Machine)
 ## Deemo
 - 목소리 분석 결과 1 (Hz)
 ![image](https://user-images.githubusercontent.com/93585651/145567927-eb663266-e7bf-44eb-9a9c-b244781f7703.png)&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 
 - 목소리 분석 결과 2 (Mel Spectrogram)
@@ -30,6 +31,7 @@ Python 3, Pycharm(Anaconda, Virtual Machine)
 - 목소리 분석 결과 4 (최종 결과)
 
 ![image](https://user-images.githubusercontent.com/93585651/145568630-3e34293c-900e-4ae1-8ba9-c3bbe4d731c9.png)&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 - 목소리 분석 결과 5 (Terminal)
 
