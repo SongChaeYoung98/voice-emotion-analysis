@@ -18,21 +18,18 @@ Python 3, Pycharm(Anaconda, Virtual Machine)
 
 ## Deemo
 - 목소리 분석 결과 1 (Hz)
-![image](https://user-images.githubusercontent.com/93585651/145567927-eb663266-e7bf-44eb-9a9c-b244781f7703.png)
-&nbsp;&nbsp;
+![image](https://user-images.githubusercontent.com/93585651/145567927-eb663266-e7bf-44eb-9a9c-b244781f7703.png)&nbsp;&nbsp;
+
 
 - 목소리 분석 결과 2 (Mel Spectrogram)
-![image](https://user-images.githubusercontent.com/93585651/145568081-67058c91-ae82-46fb-a2c4-93d48a04075e.png)
-&nbsp;&nbsp;
+![image](https://user-images.githubusercontent.com/93585651/145568081-67058c91-ae82-46fb-a2c4-93d48a04075e.png)&nbsp;&nbsp;
 
 - 목소리 분석 결과 3 (Norm Mel Spectrogram)
-![image](https://user-images.githubusercontent.com/93585651/145568216-4f634b0a-84f2-45e8-8d73-3e49abfb6324.png)
-&nbsp;&nbsp;
+![image](https://user-images.githubusercontent.com/93585651/145568216-4f634b0a-84f2-45e8-8d73-3e49abfb6324.png)&nbsp;&nbsp;
 
 - 목소리 분석 결과 4 (최종 결과)
 
-![image](https://user-images.githubusercontent.com/93585651/145568630-3e34293c-900e-4ae1-8ba9-c3bbe4d731c9.png)
-&nbsp;&nbsp;
+![image](https://user-images.githubusercontent.com/93585651/145568630-3e34293c-900e-4ae1-8ba9-c3bbe4d731c9.png)&nbsp;&nbsp;
 
 - 목소리 분석 결과 5 (Terminal)
 
