@@ -29,12 +29,12 @@ Python 3, Pycharm(Anaconda, Virtual Machine)
 
 
 - &nbsp;&nbsp;목소리 분석 결과 4 (최종 결과)&nbsp;&nbsp;
-- 
+
 ![image](https://user-images.githubusercontent.com/93585651/145568630-3e34293c-900e-4ae1-8ba9-c3bbe4d731c9.png)
 
 
 - &nbsp;&nbsp;목소리 분석 결과 5 (Terminal)
-- 
+
 ![image](https://user-images.githubusercontent.com/93585651/145568689-c1382364-a446-4246-9f84-53734b2c60c5.png)
 
 
