@@ -29,11 +29,13 @@ Python 3, Pycharm(Anaconda, Virtual Machine)
 ![image](https://user-images.githubusercontent.com/93585651/145568216-4f634b0a-84f2-45e8-8d73-3e49abfb6324.png)
 &nbsp;&nbsp;
 
-- 목소리 분석 결과 4 (최종 결과)&nbsp;
+- 목소리 분석 결과 4 (최종 결과)
+
 ![image](https://user-images.githubusercontent.com/93585651/145568630-3e34293c-900e-4ae1-8ba9-c3bbe4d731c9.png)
 &nbsp;&nbsp;
 
-- 목소리 분석 결과 5 (Terminal)&nbsp;
+- 목소리 분석 결과 5 (Terminal)
+
 ![image](https://user-images.githubusercontent.com/93585651/145568689-c1382364-a446-4246-9f84-53734b2c60c5.png)
 
 
