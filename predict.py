@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2018/7/10 10:46
-# @Author  : MengnanChen
-# @FileName: predict.py
-# @Software: PyCharm Community Edition
-# 원본 : https://github.com/cnlinxi/speech_emotion/blob/master/predict.py
-
 #도움 될만한 거, 개발 과정
 # https://stackoverrun.com/ko/q/4141310
 # https://www.python2.net/questions-175104.htm
