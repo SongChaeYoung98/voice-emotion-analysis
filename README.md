@@ -11,8 +11,7 @@ Python 3, Pycharm(Anaconda, Virtual Machine)
 - Tensorflow
 
 ## Introduction
-사용자의 목소리를 통해 감정 별 특성을 분석하여 현 기분(총 7가지)을 파악할 수 있는 프로그램
-
+A voice-based emotion analysis program that detects a user’s current mood across seven defined categories.
 ##  Predictive accuracy
 60.87%
 
