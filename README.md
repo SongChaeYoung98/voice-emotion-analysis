@@ -1,5 +1,5 @@
 # voice-emotion-analysis
-목소리 속 감정을 파악하는 프로그램
+A program that detects emotions in a voice
 
 ## Language, Development tools
 Python 3, Pycharm(Anaconda, Virtual Machine)
